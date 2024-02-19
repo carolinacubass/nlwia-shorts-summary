@@ -1,5 +1,6 @@
 <h1>Shorts Summary 🤖</h1>
 <h3>:pencil2:Descrição:</h3>
+Aplicação web de código aberto que utiliza Inteligência Artificial para resumir vídeos curtos do YouTube. Tecnologias: HTML, CSS, JavaScript, Express para Node.js, Axios para requisições HTTP, e Whisper para reconhecimento automático de fala (ASR), possibilitando a transcrição e resumo do conteúdo de vídeos.
 <p></p>
 
 <h4>:computer:Tecologias Utilizadas:</h4>
